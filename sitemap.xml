@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://calebmkim.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/draft/</loc>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/news/</loc>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/news/start/</loc>
+        <lastmod>2023-12-16</lastmod>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/post/</loc>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/post/example-post/</loc>
+        <lastmod>2023-12-19</lastmod>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/publication/</loc>
+    </url>
+    <url>
+        <loc>https://calebmkim.github.io/publication/src/</loc>
+        <lastmod>2023-06-19</lastmod>
+    </url>
+</urlset>
