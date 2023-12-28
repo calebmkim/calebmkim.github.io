@@ -1,0 +1,10 @@
+name: Check GitHub Token
+
+on: [push]
+
+jobs:
+  check-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Display GitHub Token
+        run: echo ${{ secrets.GITHUB_TOKEN }}
