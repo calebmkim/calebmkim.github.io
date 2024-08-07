@@ -82,26 +82,4 @@
   </div>
 </section>
 
-<!-- More Posts -->
-<section>
-  <h2 id="more posts">More
-    <sup>
-      <a class="unstyled-link" href="{{ get_url(path=" post/atom.xml") }}">
-        <i class="fas fa-rss"></i>
-      </a>
-    </sup>
-  </h2>
-  {% set news = get_section(path="more/_index.md") %}
-  {% set items = config.extra.post_items %}
-  {% for post in news.pages | sort(attribute="date") | reverse | slice(end=items) %}
-  {{ m::generate_post(post=post) }}
-  {% endfor %}
-  <div class="more">
-    <a href="/more">
-      See All
-      <i class="fa fa-angle-double-right"></i>
-    </a>
-  </div>
-</section>
-
 {% endblock content %}

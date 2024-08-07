@@ -13,7 +13,6 @@ authors = [
 publication = "Conference on Programming Language Design and Implementation Student Research Competition"
 publication_short = "PLDI SRC"
 
-pdf = "/files/pubs/src.pdf"
 urls = [
  {name = "Talk", url = "https://drive.google.com/file/d/1K8PhijgCGhcA0TgILBzUVwbCuykLZzJu/view?usp=sharing"}
 ]

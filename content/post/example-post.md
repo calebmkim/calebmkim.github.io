@@ -4,8 +4,7 @@ date = 2023-12-19
 draft = false
 
 [extra]
-summary = "My first post"
+summary = "No content here"
 +++
 
-Just an example post with no actual content.
-More to come in the future.
+My first blog post: hopefully I'll actually write real blog posts here in the future.
