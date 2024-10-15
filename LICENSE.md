@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2018 Rachit Nigam. Original Copyright (c) 2016 George Cushen for hugo-academic.
+Copyright (c) 2024 Caleb Kim. Original Copyright (c) 2016 George Cushen for
+hugo-academic.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

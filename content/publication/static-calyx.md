@@ -1,28 +1,27 @@
 +++
-title = "Example Publication"
-# Add a subtitle here
-# subtitle = ""
-date = 2023-12-20
-draft = true
+title = "Unifying Static and Dynamic Intermediate Languages for Accelerator Generators"
+date = 2024-10-25
+draft = false
 
 [extra]
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
-  "Author 1a",
-  "Author 1b",
-  "Author",
-  "Author"
+  "Caleb Kim",
+  "Pai Li", 
+  "Anshuman Mohan", 
+  "Andrew Butt", 
+  "Adrian Sampson", 
+  "Rachit Nigam",
 ]
 equal_authors = [true, true]
 
 # Publication name and optional abbreviated version.
-publication = "Conference Name"
-publication_short = "Conference Acronym"
+publication = "Object-Oriented Programming, Systems, Languages & Applications"
+publication_short = "OOPSLA"
 
-pdf = "/files/pubs/static-calyx.pdf"
+pdf = "/files/pubs/piezo-oopsla.pdf"
 urls = [
-  { name = "Website", url = "https://calyxir.org" },
-  { name = "Demo", url = "https://play.calyxir.org" }
+  { name = "Calyx Homepage", url = "https://calyxir.org" },
 ]
 type="conf"
 +++

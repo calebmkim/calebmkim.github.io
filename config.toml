@@ -25,5 +25,8 @@ post_items = 7
 
 # Links to author webpages
 author = [
-  { name = "Adrian Sampson", link = "http://adriansampson.net" }
+  { name = "Adrian Sampson", link = "http://adriansampson.net" },
+  { name = "Rachit Nigam", link = "https://rachit.pl/" },
+  { name = "Anshuman Mohan", link = "https://www.cs.cornell.edu/~amohan/" },
+  { name = "Andrew Butt", link = "https://andrewb1999.github.io/" },
 ]
